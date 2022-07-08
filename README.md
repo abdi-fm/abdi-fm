@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdi-fm
-- 👀 I’m interested in health and tech. 
-- 🌱 I’m currently learning python, data analytics and bash. 
-- 💞️ I’m looking to collaborate on health-related projects.
+- 👀 I’m interested in health tech. 
+- 🌱 I’m currently learning python and hoping to become/develop into a data scientist. 
+- 💞️ I’m looking to collaborate on any health-related projects.
 - 📫 How to reach me - DM me on twitter abdifa_fm
 
 <!---
